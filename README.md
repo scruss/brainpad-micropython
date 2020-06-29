@@ -16,3 +16,7 @@ Next, follow the instructions at [dhylands/BRAINPAD: MicroPython board files for
 https://drive.google.com/file/d/1eBu7C1-xEknoyc5uRQRy6RmQF5GUclvN/view
 
 (Note that there is another document floating around claiming to be the "BrainPad NetMF" schematic. This is not the same)
+
+## Buzzer demo
+
+`bp_rtttl.py` uses `rtttl.py` from [dhylands/upy-rtttl](https://github.com/dhylands/upy-rtttl).
